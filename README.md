@@ -8,19 +8,12 @@
 
 ### Contenido
 
-El contenido de este repositorio incluye, pero no se limita a:
+El contenido de este repositorio incluye proyectos sencillos , medio y complejos:
 
-- **Herramientas de Desarrollo:** Recursos útiles como bibliotecas, frameworks, y utilidades para trabajar con React.js, React Native, Node.js y Spring Boot.
-- **Métodos y Prácticas de Desarrollo:** Ejemplos de buenas prácticas, patrones de diseño, y métodos recomendados para desarrollar aplicaciones utilizando estas tecnologías.
-- **Proyectos de Muestra:** Proyectos completos que demuestran el uso de las tecnologías mencionadas en escenarios del mundo real. Estos proyectos pueden ayudarte a aprender nuevas técnicas y obtener ideas para tus propios proyectos.
+- **Proyectos simples:** Enfocados para practicar lo basico.
+- **Proyectos medios:** Conocer nuevos conceptos y herramientas y reforsar lo aprendido.
+- **Proyectos Complejos:** Demostar el avance y consolidacion de los conocimientos adquiridos y aprender nuevas tecnologias como lo son los framework y manejos de base de datos.
 
-### Cómo Contribuir
-
-¡Tu contribución es bienvenida! Si deseas contribuir a este repositorio, aquí hay algunas maneras en las que puedes ayudar:
-
-- **Agregar Herramientas y Recursos:** Si conoces alguna herramienta o recurso útil que no esté incluido aquí, siéntete libre de agregarlo.
-- **Mejorar la Documentación:** Si encuentras que la documentación es confusa o incompleta, o si tienes ejemplos adicionales para agregar, por favor contribuye con mejoras.
-- **Enviar Proyectos de Muestra:** Si has desarrollado proyectos interesantes utilizando estas tecnologías, considera compartirlos aquí para que otros desarrolladores puedan aprender de ellos.
 
 ¡Espero que encuentres este repositorio útil y que te ayude en tus proyectos de desarrollo!
 
