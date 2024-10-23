@@ -1,6 +1,6 @@
 # Bienvenido al Repositorio de Proyectos de Desarrollo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 
-¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de herramientas, métodos y proyectos para el desarrollo utilizando los lenguajes de programación React.js, React Native, Node.js y Spring Boot. Este repositorio está diseñado para ayudarte en tus proyectos actuales y futuros, proporcionando recursos útiles y ejemplos prácticos.
+¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de proyectos para practicar y perfeccionar el desarrollo utilizando los lenguajes de programación como javascripts en donde utilizaremos principalmente el MEAN stack MongoDB, Express,Angular y NodeJS . Este repositorio está diseñado para guiarlte desde tus primero pasos en tus proyectos actuales y futuros,deslo proyectos simples hasta mas complejos.
 
 ### Acerca de este Repositorio
 
