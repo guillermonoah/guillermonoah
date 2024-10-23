@@ -1,18 +1,18 @@
 # Bienvenido al Repositorio de Proyectos de Desarrollo <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 
 
-¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de proyectos para practicar y perfeccionar el desarrollo utilizando los lenguajes de programación como javascripts en donde utilizaremos principalmente el MEAN stack MongoDB, Express,Angular y NodeJS . Este repositorio está diseñado para guiarlte desde tus primero pasos en tus proyectos actuales y futuros,deslo proyectos simples hasta mas complejos.
+¡Hola desarrollador! Bienvenido a mi repositorio, donde encontrarás una colección de proyectos para practicar y perfeccionar el desarrollo utilizando los lenguajes de programación como JavaScript en donde utilizaremos principalmente el MEAN stack MongoDB, Express, Angular y NodeJS .Este repositorio está diseñado para guiarte desde tus primero pasos en tus proyectos actuales y futuros,deslo proyectos simples hasta mas complejos.
 
 ### Acerca de este Repositorio
 
-- Este repositorio está enfocado en desarrolos web principalmente, que habilidades debe adquirir un desarrollador junior hasta convertirse en senior, inicialmente pequeños proyectos para aprender y practicar html5, css y javascript nativo, luego una segunda etapa para manejar estilos con bootstrap y usar librerias de javascript con jquery y en un tercer nivel crear proyectos con framework para Frontend y backend  Angular y Nodejs integrandolos oviamente con bases de datos.
+- Este repositorio está enfocado en desarrollo web principalmente, que habilidades debe adquirir un desarrollador junior hasta convertirse en senior, inicialmente pequeños proyectos para aprender y practicar html5, css y JavaScript nativo, luego una segunda etapa para manejar estilos con Bootstrap  y usar librerias de JavaScript con jQuery y en un tercer nivel crear proyectos con framework para Frontend y backend Angular y Nodejs integrándolos obviamente con bases de datos.
 
 ### Contenido
 
 El contenido de este repositorio incluye proyectos sencillos , medio y complejos:
 
 - **Proyectos simples:** Enfocados para practicar lo basico.
-- **Proyectos medios:** Conocer nuevos conceptos y herramientas y reforsar lo aprendido.
-- **Proyectos Complejos:** Demostar el avance y consolidacion de los conocimientos adquiridos y aprender nuevas tecnologias como lo son los framework y manejos de base de datos.
+- **Proyectos medios:** Conocer nuevos conceptos y herramientas y reforzar lo aprendido.
+- **Proyectos Complejos:** Demostrar el avance y consolidacion de los conocimientos adquiridos y aprender nuevas tecnologias como lo son los framework y manejos de base de datos.
 
 
 ¡Espero que encuentres este repositorio útil y que te ayude en tus proyectos de desarrollo!
