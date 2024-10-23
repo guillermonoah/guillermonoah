@@ -4,7 +4,7 @@
 
 ### Acerca de este Repositorio
 
-- Este repositorio está enfocado en desarrolos web principalmente que habilidades debe recorrer un desarrollador junior hasta convertirse en senior, inicialmente pequeños proyectos para aprender y practicar html5, css y javascript nativo, luego una segunda etapa para manejar estilos con bootstrap y usar librerias de javascript con jquery y en un tercer nivel crear proyectos con framework para Frontend y backend  Angular y Nodejs integrandolos oviamente con bases de datos.
+- Este repositorio está enfocado en desarrolos web principalmente, que habilidades debe recorrer un desarrollador junior hasta convertirse en senior, inicialmente pequeños proyectos para aprender y practicar html5, css y javascript nativo, luego una segunda etapa para manejar estilos con bootstrap y usar librerias de javascript con jquery y en un tercer nivel crear proyectos con framework para Frontend y backend  Angular y Nodejs integrandolos oviamente con bases de datos.
 
 ### Contenido
 
