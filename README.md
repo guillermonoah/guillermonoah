@@ -26,5 +26,5 @@ El contenido de este repositorio incluye proyectos sencillos , medio y complejos
 </details>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhxN3JvMzlieGNiMjI5YmI3bWI5Z2JnemhvZ3c1bDRpN3ZzcDA5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)" width="100" height="100" alt="¡Bienvenido!" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhxN3JvMzlieGNiMjI5YmI3bWI5Z2JnemhvZ3c1bDRpN3ZzcDA5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" height="100" alt="¡Bienvenido!" />
 </div>
